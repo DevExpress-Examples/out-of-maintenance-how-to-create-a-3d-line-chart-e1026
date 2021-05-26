@@ -5,9 +5,7 @@
 <!-- default file list end -->
 # How to create a 3D Line chart
 
+The following example demonstrates how to create a [3D Line](https://docs.devexpress.com/WindowsForms/2964/controls-and-libraries/chart-control/series-views/3d-series-views/line-series-views/line-chart?p=netframework) chart at runtime.
 
-<p>The following example demonstrates how to create a <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument2964.htm">3D Line</a> chart at runtime.</p><p>Note that this series view type is associated with the <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5909.htm">XY-Diagram 3D</a> type, and you should cast your <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6017.htm">diagram</a> object to this type, in order to access its specific options.</p>
-
-<br/>
-
-
+Note that this series view type is associated with the [XY-Diagram 3D](https://docs.devexpress.com/WindowsForms/5909/controls-and-libraries/chart-control/diagram/xy-diagram-3d?p=netframework) type, and you should cast your [diagram](https://docs.devexpress.com/WindowsForms/5778/controls-and-libraries/chart-control/diagram?p=netframework)
+ object to this type, in order to access its specific options.
